@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<!--markdown-->## 开始教程 </br> *总操作时常大概10分钟左右*##
 
-You can use the [editor on GitHub](https://github.com/iwannacv/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[点击进入活动][big] 进入后注册-下载app
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+绑定任意银行卡，直接提现18元+ 秒到零钱
 
-### Markdown
+还有首页右上角客服，回复 开户翻翻乐 进入直接拆包，基本88r，我中了98r
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![1.jpg][1]
 
-```markdown
-Syntax highlighted code block
+- Ps：任意银行卡都行，不是必须要招行卡
 
-# Header 1
-## Header 2
-### Header 3
+有群友拆出688 羡慕死我了
 
-- Bulleted
-- List
+招行大活动 稳得一批 今天很容易拆出88r 我也是刚中
 
-1. Numbered
-2. List
+  [big]:http://cmb-dist.17f8.me/mobile/jump4?scene=76c914b2a7304eb5bdf106079fd43142
 
-**Bold** and _Italic_ and `Code` text
+  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iwannacv/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [1]:http://shp.qpic.cn/collector/368685196/3d20318b-c4c8-42b7-8fff-d49a6fbcc680/0
