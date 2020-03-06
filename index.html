@@ -50,15 +50,6 @@
   </section>
 
 </body>
-
-马开东云搜索
-在博客添加网页背景动画效果，跟随鼠标移动的线条
-更新时间：2020-03-06 11:57:48  
-在博客网页上看到有这样的动效背景动画，可以根据鼠标移动位置来拖动线条
-
-emm,工作放空的时候可以用来点着玩儿。。。
- 
-设置方式是在博客的“管理-->设置”，然后在设置中的页脚HTML代码中添加
 <script>
  
 !function(){
@@ -124,11 +115,11 @@ x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRe
  
  function(n){
 
- window.setTimeout(n,1e3/45)
+ window.setTimeout(n,145/145)
  
  },
  
- w=Math.random,y={x:null,y:null,max:2e4};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
+ w=Math.random,y={x:null,y:null,max:20};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
  
  window.onmousemove=function(n){
  
@@ -150,7 +141,7 @@ x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRe
  
  u=s.concat([y]),
  
- setTimeout(function(){i()},100)
+ setTimeout(function(){i()},500)
  
  }();
  
