@@ -115,11 +115,11 @@ x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRe
  
  function(n){
 
- window.setTimeout(n,1450/145)
+ window.setTimeout(n,1)
  
  },
  
- w=Math.random,y={x:null,y:null,max:30};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
+ w=Math.random,y={x:null,y:null,max:20};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
  
  window.onmousemove=function(n){
  
@@ -135,7 +135,7 @@ x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRe
  
  for(var s=[],f=0;d.n>f;f++){
  
- var h=w()*a,g=w()*c,v=2*w()-1,p=2*w()-1;s.push({x:h,y:g,xa:v,ya:p,max:30})
+ var h=w()*a,g=w()*c,v=2*w()-1,p=2*w()-1;s.push({x:h,y:g,xa:v,ya:p,max:200})
  
  }
  
